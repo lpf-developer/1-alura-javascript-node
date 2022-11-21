@@ -11,6 +11,17 @@
 
     Na arrow function, para viabilizar os testes, "a" subtrai "b" (a - b), para
     ordem crescente e (b - a) para a ordem decrescente.
+
+    * Link com o repositório github.
+ * 
+ * 1 :: git config --global user.email "franca.luiz.paulo.777@gmail.com"
+ * 2 :: git config --global user.name "Luis Paulo França"
+ * 3 :: git init
+ * 4 :: git remote add origin https://github.com/lpf-developer/1-alura-javascript_web.git
+ * 5 :: git add .
+ * 6 :: git commit -m "alura-javascript_web-aula1"
+ * 7 :: git push origin master
+ 
 */ 
 
 
